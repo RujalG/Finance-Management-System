@@ -73,11 +73,54 @@ In Jain tradition, donations under a specific category (e.g., education) must on
 
 ---
 
-## 🎬 Demo Overview
+## 🎬 Testing Overview
 
 - User Signup/Login flows
+  Navigate to Home Page
+  ![image](https://github.com/user-attachments/assets/4ce0e127-64e8-43f9-9122-1f02f6247cdf)
+  Click on Sign Up button to create account
+  ![image](https://github.com/user-attachments/assets/034e7940-20d4-4a05-b1cb-6c781f1528c9)
+  Sign up page
+  ![image](https://github.com/user-attachments/assets/c2fcc84a-f0d9-49e3-8389-6b639e28a9b1)
+  Required data
+  ![image](https://github.com/user-attachments/assets/0b0b9011-492e-4e21-9447-f955639ec3f0)
+  Click sign up
+  ![image](https://github.com/user-attachments/assets/0f8e1e7d-7b91-4cc6-b2af-295d93bc20cc)
+  Success sign up
+  ![image](https://github.com/user-attachments/assets/358478f3-6c9a-4303-a041-826d4d7bdfef)
+  Forward to Login
+  ![image](https://github.com/user-attachments/assets/bbca26d1-64a8-475e-af4e-409ca8efed51)
+  Login page
+  ![image](https://github.com/user-attachments/assets/f4682f3f-c22a-4047-813b-4f16943cc056)
+  Login
+  ![image](https://github.com/user-attachments/assets/9e0347e2-8793-431e-9143-a65634f01230)
+  Forget password
+  ![image](https://github.com/user-attachments/assets/2a42f68b-d085-4f44-8eb2-2d5c621fa5de)
+  Forget password page
+  ![image](https://github.com/user-attachments/assets/3071412b-e2f3-402f-b644-59063785fffc)
+  Send link to gmail
+  ![image](https://github.com/user-attachments/assets/f6188f4d-4d20-4adf-8947-1e252753bb41)
+  New password
+  ![image](https://github.com/user-attachments/assets/97ce95ac-7791-4d2c-806b-b984890ca029)
+  Password updated
+  ![image](https://github.com/user-attachments/assets/216f0e1c-5927-46d3-a3dc-996351163eed)
+  Login success
+  ![image](https://github.com/user-attachments/assets/5f67842f-ca93-40f7-81cc-eed2a9652ab7)
 - Dashboard and navigation
-- Creating person, categories, and payments
+  ![image](https://github.com/user-attachments/assets/91224f52-2b38-40a5-a06f-c5e3e56af16a)
+  Day mode
+  ![image](https://github.com/user-attachments/assets/f35e830c-f6ff-4420-99c3-e842aa67c296)
+  Night mode
+  ![image](https://github.com/user-attachments/assets/89a91e06-70d6-4685-bdcb-a76c75c2bf4e)
+- Creating incoming payments
+  ![image](https://github.com/user-attachments/assets/c1fc39d3-fb92-48fc-b0e8-7b9485378350)
+  ![image](https://github.com/user-attachments/assets/2770951e-bb85-4d11-87e5-020a63e45a6c)
+  Create new member for payment
+  ![image](https://github.com/user-attachments/assets/37dbdf76-9d18-4208-98c5-c3b456b01924)
+  ![image](https://github.com/user-attachments/assets/9a2feb9a-7d6d-4b2f-8c65-914b1eba5fc3)
+  ![image](https://github.com/user-attachments/assets/fde89430-0d20-41f2-a5db-aef39419ff2a)
+
+  
 - Viewing, editing, deleting, and printing receipts
 - Search and filter functionality
 - Special comment usage
