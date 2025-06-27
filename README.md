@@ -194,8 +194,12 @@ In Jain tradition, donations under a specific category (e.g., education) must on
   ![image](https://github.com/user-attachments/assets/d046fe75-316a-4032-b1e0-d56249f741ef)
   ![image](https://github.com/user-attachments/assets/2d3e3913-d538-4e06-bd27-1e1e9fd89539)
   ![image](https://github.com/user-attachments/assets/3e62ca0e-9e35-4764-8e9e-179804e069fd)
+  A weekly mail is triggered to all registered user’s email ID with all the payment details.
   ![image](https://github.com/user-attachments/assets/73d0508b-598d-4066-a5e1-3503e7aa98f0)
-  
+  Receipt
+  ![image](https://github.com/user-attachments/assets/3455d7b3-60cb-4fa8-9afa-62c4dc943dd5)
+  Payment
+  ![image](https://github.com/user-attachments/assets/a99d06e3-1f36-439f-b9d9-240a736b05fe)
   
 - Special comment usage
   Creating incoming and outgoing payment with searchable comments
