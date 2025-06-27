@@ -11,6 +11,18 @@ This application was inspired by a real-life problem faced by my father while ma
 In Jain tradition, donations under a specific category (e.g., education) must only be used for that category. Misusing funds is considered a **pap (sin)**. The Numo is built to simplify, safeguard, and honor these practices.
 
 ---
+## 📺 Watch the Demo
+
+👉 [YouTube Demo Video](https://www.youtube.com/watch?v=qKvNvjwlvJY&t=12s)
+
+---
+
+## 🌐 My Portfolio
+
+🔗 [rujal.in](https://www.rujal.in)  
+(or replace with your custom portfolio project link)
+
+---
 
 ## 🛠️ Tech Stack
 
@@ -40,10 +52,8 @@ In Jain tradition, donations under a specific category (e.g., education) must on
 ## 🔎 Search & Filters
 
 - Filter payments by:
-  - Receipt number
   - Name
-  - Amount
-  - Status
+  - Payment Status
 - Search by **special comment** (e.g., "education camp") to filter categorized transactions
 - View person-wise payment history and export or print it
 
@@ -132,7 +142,7 @@ In Jain tradition, donations under a specific category (e.g., education) must on
   Since this payment is unpaid, the amount does not reflects on the dashboard
   ![image](https://github.com/user-attachments/assets/29636a72-5521-4266-af86-7c2121a8459a)
   New receipt create,
-  On dassboard, in the summary report the amount has be updated for respectful category
+  On dashboard, in the summary report the amount has be updated for respectful category
   ![image](https://github.com/user-attachments/assets/77164ac7-74f3-4fa2-8864-3b430683318d)
 
 - Creating outgoing payments
@@ -226,25 +236,13 @@ It's a practical tool for real organizations and a showcase of my full-stack dev
 
 ---
 
-## 📺 Watch the Demo
-
-👉 [YouTube Demo Video](https://www.youtube.com/watch?v=your-video-id)
-
----
-
-## 🌐 My Portfolio
-
-🔗 [rujal.in](https://www.rujal.in)  
-(or replace with your custom portfolio project link)
-
----
 
 ## 📇 Connect with Me
 
 **Rujal Harshad Gandhi**  
 📧 rujalgandhi66@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rujal-gandhi)  
-📁 GitHub: *[link to repository]*
+📁 GitHub: https://github.com/RujalG/
 
 ---
 
