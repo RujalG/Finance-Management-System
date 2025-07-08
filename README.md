@@ -13,7 +13,7 @@ In Jain tradition, donations under a specific category (e.g., education) must on
 --
 ## 🌐 Deployed at
 
-👉 ![Live Site](https://thenumo.rujal.in)
+👉 [Live Site](https://thenumo.rujal.in)
 
 ---
 ## 📺 Watch the Demo
