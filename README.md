@@ -10,6 +10,11 @@ This application was inspired by a real-life problem faced by my father while ma
 
 In Jain tradition, donations under a specific category (e.g., education) must only be used for that category. Misusing funds is considered a **pap (sin)**. The Numo is built to simplify, safeguard, and honor these practices.
 
+--
+## 🌐 Deployed at
+
+[![Live Site](https://img.shields.io/badge/Live-thenumo.rujal.in-brightgreen?style=flat-square)](https://thenumo.rujal.in)
+
 ---
 ## 📺 Watch the Demo
 
