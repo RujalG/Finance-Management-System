@@ -25,7 +25,6 @@ In Jain tradition, donations under a specific category (e.g., education) must on
 ## 🌐 My Portfolio
 
 🔗 [rujal.in](https://www.rujal.in)  
-(or replace with your custom portfolio project link)
 
 ---
 
