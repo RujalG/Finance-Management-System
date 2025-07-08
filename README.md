@@ -10,12 +10,15 @@ This application was inspired by a real-life problem faced by my father while ma
 
 In Jain tradition, donations under a specific category (e.g., education) must only be used for that category. Misusing funds is considered a **pap (sin)**. The Numo is built to simplify, safeguard, and honor these practices.
 
---
-## 🌐 Deployed at
+---
+## 🌐 Live Demo
 
-👉 [Live Site](https://thenumo.rujal.in)
+[https://thenumo.rujal.in](https://thenumo.rujal.in)
+
+[![Live Site](https://img.shields.io/badge/Live-thenumo.rujal.in-brightgreen?style=flat-square)](https://thenumo.rujal.in)
 
 ---
+
 ## 📺 Watch the Demo
 
 👉 [YouTube Demo Video](https://www.youtube.com/watch?v=qKvNvjwlvJY&t=12s)
@@ -28,11 +31,14 @@ In Jain tradition, donations under a specific category (e.g., education) must on
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-- **Frontend**: HTML, Bootstrap, Custom CSS (Responsive UI)
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB Atlas
+- **Deployment:** Render (Backend), GoDaddy (Domain)
+- **Authentication:** JWT-based Auth
+- **Hosting:** Full-stack monolithic deployment on Render
 
 ---
 
@@ -228,6 +234,12 @@ In Jain tradition, donations under a specific category (e.g., education) must on
   ![image](https://github.com/user-attachments/assets/2e34775f-2fef-4509-8da2-7d219d427c80)
   
 - Route protection and flash notifications
+
+---
+
+## ⚙️ Environment Variables
+
+Create a `.env` file in the root directory:
 
 ---
 
