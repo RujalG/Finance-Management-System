@@ -13,7 +13,7 @@ In Jain tradition, donations under a specific category (e.g., education) must on
 --
 ## 🌐 Deployed at
 
-[![Live Site](https://img.shields.io/badge/Live-thenumo.rujal.in-brightgreen?style=flat-square)](https://thenumo.rujal.in)
+👉 ![Live Site](https://thenumo.rujal.in)
 
 ---
 ## 📺 Watch the Demo
@@ -236,8 +236,6 @@ In Jain tradition, donations under a specific category (e.g., education) must on
 
 **The Numo** is a tailored solution that combines **technical accuracy** with **spiritual responsibility**.  
 It's a practical tool for real organizations and a showcase of my full-stack development skills.
-
-> 💬 *The app is currently not deployed due to ongoing work on security. However, the complete codebase, documentation, and demo video are available below.*
 
 ---
 
