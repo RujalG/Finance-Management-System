@@ -254,7 +254,7 @@ It's a practical tool for real organizations and a showcase of my full-stack dev
 ## 📇 Connect with Me
 
 **Rujal Harshad Gandhi**  
-📧 rujalgandhi66@gmail.com  
+📧 rujalgandhi99@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rujal-gandhi)  
 📁 GitHub: https://github.com/RujalG/
 
