@@ -8,7 +8,7 @@ My name is **Rujal Harshad Gandhi**, and this is a full-stack web application I�
 
 This application was inspired by a real-life problem faced by my father while managing finances in a Jain organization. The need was for a tool to track **category-wise balances**, manage records efficiently, and share updates with transparency.
 
-In Jain tradition, donations under a specific category (e.g., education) must only be used for that category. Misusing funds is considered a **pap (sin)**. The Numo is built to simplify, safeguard, and honor these practices.
+In religious tradition, donations under a specific category (e.g., education) must only be used for that category. Misusing funds is considered a **pap (sin)**. The Numo is built to simplify, safeguard, and honor these practices.
 
 ---
 ## 🌐 Live Demo
@@ -254,7 +254,7 @@ It's a practical tool for real organizations and a showcase of my full-stack dev
 ## 📇 Connect with Me
 
 **Rujal Harshad Gandhi**  
-📧 rujalgandhi99@gmail.com  
+📧 rujalgandhi66@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rujal-gandhi)  
 📁 GitHub: https://github.com/RujalG/
 
